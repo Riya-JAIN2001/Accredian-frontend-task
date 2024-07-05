@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FiChevronDown } from "react-icons/fi";
+import { FiChevronDown } from "react-icons/fi/index";
 import axios from 'axios';
 
 const Appbar = () => {
